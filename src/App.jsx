@@ -152,7 +152,7 @@ export default function App() {
               {user?.following != null && (<span>{user.following} following</span>)}
             </div>
             <div className="mt-6 flex flex-wrap gap-3">
-              <a href={RESUME_URL} target="_blank" rel="noreferrer"><Button className="rounded-2xl px-5">Download Résumé</Button></a>
+              <a href={RESUME_URL} target="_blank" rel="noreferrer"><Button className="rounded-2xl px-5">Download Resume</Button></a>
               <a href={`https://github.com/${GITHUB_USERNAME}?tab=repositories`} target="_blank" rel="noreferrer">
                 <Button variant="secondary" className="rounded-2xl px-5 gap-2"><Github className="size-4" /> Browse Repos</Button>
               </a>
