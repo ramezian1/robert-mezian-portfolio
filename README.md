@@ -3,8 +3,6 @@
 A fast, minimalist developer portfolio built with **Vite + React + Tailwind CSS**.  
 It auto-surfaces my public GitHub repositories and ships with dark mode by default.
 
-> Live Demo: (add your deployed link here — GitHub Pages, Netlify, Vercel, etc.)
-
 ## ✨ Features
 - **Repo feed:** Pulls public repos from my GitHub account to showcase work.
 - **Dark-first UI:** Loads in dark mode and remembers preference (stored in `localStorage`).
