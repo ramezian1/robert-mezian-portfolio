@@ -12,7 +12,6 @@ const NAME = 'Robert Mezian'
 const TAGLINE = 'IT Support Engineer II → Software, automation, and clean UX. 2+ years in enterprise environments.'
 const LOCATION = 'Los Angeles, CA'
 const EMAIL = 'robert_mezian@outlook.com'
-const RESUME_URL = '/resume.pdf'
 
 export default function App() {
   const [repos, setRepos] = useState([])
